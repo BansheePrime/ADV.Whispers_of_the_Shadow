@@ -215,7 +215,7 @@
 
 ## Ссылки
 
-- [DnD Beyond] *<https://www.dndbeyond.com/campaigns/join/6074427308232434>*
-- [Регистрация на игру] *<https://app.roll20.net/join/18602307/9XhyyQ>*
-- [Roll20] *<https://app.roll20.net/campaigns/details/18602307/Whisper%20of%20the%20Shadow>*
-- [Google Meet] *<https://meet.google.com/ucb-uzdf-gke>*
+- [DnD Beyond]
+- [Регистрация на игру]
+- [Roll20]
+- [Google Meet]
